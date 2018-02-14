@@ -10,5 +10,3 @@ def summon_captain_planet(array)
     uppercase.capitalize + !
   end
 end
-
-
